@@ -1,2 +1,3 @@
 # CreeperCraft-Directory
-CreeperCraft directory
+CreeperCraft directory/injection files
+for CreeperCraft server ONLY
